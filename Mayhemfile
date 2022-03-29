@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 project: FFmpeg
->>>>>>> 43de47ad5a (adding mf)
 target: ffmpeg
 tasks:
   - name: exploitability_factors
