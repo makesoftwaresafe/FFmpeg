@@ -1,1 +1,9 @@
-
+project: FFmpeg
+target: ffmpeg
+tasks:
+  - name: exploitability_factors
+  - name: regression_testing
+  - name: behavior_testing
+  - name: coverage_analysis
+cmds:
+  - cmd: ffmpeg -i @@
